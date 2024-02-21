@@ -215,11 +215,14 @@ color: #7CB0CB;
 
 .contacts,
 .tech_skills,
-.soft_skills {
+.soft_skills,
+.languages {
     margin-left: 40px;
     }
 
-.contacts {
+.contacts,
+.tech_skills,
+.soft_skills {
     margin-bottom: 50px;
 }
 
@@ -253,25 +256,24 @@ color: #7CB0CB;
     fill: #FFFFFF;
 }
 
-.tech_skills {
-    margin-bottom: 45px;
-}
-
 .tech_skills_list,
-.soft_skills_list {
+.soft_skills_list,
+.languages_list {
     color: #FFFFFF;
     padding: 0;
     margin-left: 17px;
 }
 
 .tech_skills_item,
-.soft_skills_item {
+.soft_skills_item,
+.languages_item {
     /* color: #FB6D3A; */
     color: 7CB0CB;
 }
 
 .tech_skills_text,
-.soft_skills_text {
+.soft_skills_text,
+.languages_text {
     color: #FFFFFF;
     font-style: normal;
     font-weight: 400;
