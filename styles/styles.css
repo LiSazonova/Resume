@@ -108,6 +108,10 @@ img {
     color: #000000;
 }
 
+.projects_item:not(:last-child) {
+    margin-bottom: 15px;
+}
+
 .project,
 .project_link {
     font-style: normal;
