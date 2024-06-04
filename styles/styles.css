@@ -1,5 +1,8 @@
 body {
-    font-family: 'Montserrat', sans-serif;
+    font-family: "Raleway", sans-serif;
+    font-style: normal;
+    font-size: 14px;
+    color: #484747;
     background-color: #E5E5E5;
 }
 
@@ -43,11 +46,9 @@ img {
 }
 
 .title {
-    font-style: normal;
     font-weight: 700;
-    font-size: 22px;
-    line-height: 27px;
-    color: #000000;
+    font-size: 24px;
+    line-height: 29px;
     margin-bottom: 25px;
 }
 
@@ -66,28 +67,24 @@ img {
 }
 
 .about_position {
-    font-style: normal;
     font-weight: 500;
-    font-size: 16px;
-    line-height: 1.06;
-    color: #000000;
+    font-size: 24px;
+    line-height: 29px;
     margin-bottom: 25px;
 }
 
 .about_name {
-    font-style: normal;
     font-weight: 700;
     font-size: 45px;
     line-height: 55px;
-    color: #000000;
     margin-bottom: 25px;
+    text-transform: uppercase;
 }
 
 .about_description {
-    font-style: normal;
     font-weight: 400;
-    font-size: 14px;
-    line-height: 24px;
+    line-height: 20px;
+    letter-spacing: 1px;
     color: #595959;
     width: 600px;
 }
@@ -96,16 +93,13 @@ img {
 
 .projects_list {
     padding: 0;
-    margin-left: 15px;
+    list-style: none;
 }
 
 .projects_item,
 .project_bracket {
-    font-style: normal;
     font-weight: 700;
-    font-size: 14px;
     line-height: 24px;
-    color: #000000;
 }
 
 .projects_item:not(:last-child) {
@@ -114,17 +108,13 @@ img {
 
 .project,
 .project_link {
-    font-style: normal;
     font-weight: 400;
-    font-size: 14px;
     line-height: 24px;
     color: #595959;
 }
 
 .project_description {
-    font-style: normal;
     font-weight: 400;
-    font-size: 14px;
     line-height: 24px;
     color: #595959;
     width: 600px;
@@ -135,16 +125,13 @@ img {
 }
 
 .work_position {
-    font-style: normal;
     font-weight: 700;
     font-size: 16px;
     line-height: 20px;
-    color: #000000;
     margin-bottom: 10px;
 }
 
 .organization {
-    font-style: normal;
     font-weight: 700;
     font-size: 16px;
     line-height: 20px;
@@ -152,7 +139,6 @@ img {
 }
 
 .period {
-    font-style: normal;
     font-weight: 400;
     font-size: 12px;
     line-height: 15px;
@@ -161,11 +147,9 @@ img {
 }
 
 .line {
-    font-style: normal;
     font-weight: 400;
     font-size: 12px;
     line-height: 15px;
-    color: #000000;
 }
 
 .work_list {
@@ -174,9 +158,7 @@ img {
 }
 
 .work_list_item {
-    font-style: normal;
     font-weight: 400;
-    font-size: 14px;
     line-height: 24px;
     color: #595959;
 }
@@ -194,7 +176,6 @@ img {
 }
 
 .edu_organization {
-    font-style: normal;
     font-weight: 700;
     font-size: 16px;
     line-height: 20px;
@@ -204,11 +185,8 @@ img {
 }
 
 .education_rank {
-    font-style: normal;
     font-weight: 700;
-    font-size: 14px;
     line-height: 17px;
-    color: #000000;
     margin-bottom: 10px;
     margin-top: 0;
 }
@@ -241,7 +219,6 @@ img {
 
 .sidebar_title {
     color: #FFFFFF;
-    font-style: normal;
     font-weight: 700;
     font-size: 22px;
     line-height: 27px;
@@ -250,9 +227,7 @@ img {
 
 .contacts_link {
     color: #FFFFFF;
-    font-style: normal;
     font-weight: 400;
-    font-size: 14px;
     line-height: 24px;
     text-decoration: none;
 }
@@ -281,8 +256,6 @@ img {
 .soft_skills_text,
 .languages_text {
     color: #FFFFFF;
-    font-style: normal;
     font-weight: 400;
-    font-size: 14px;
     line-height: 24px;
 }
