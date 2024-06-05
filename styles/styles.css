@@ -41,8 +41,7 @@ img {
 
 .main_content {
     background-color: #FFFFFF;
-    /* box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1); */
-    padding: 90px 90px;
+    padding: 60px 60px;
 }
 
 .title {
@@ -216,7 +215,7 @@ img {
 .tech_skills,
 .soft_skills,
 .languages {
-    margin-left: 40px;
+    margin-left: 60px;
 }
 
 .contacts,
