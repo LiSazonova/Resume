@@ -193,7 +193,6 @@ img {
 }
 
 .education_rank {
-    /* font-weight: 700; */
     line-height: 24px;
     margin-bottom: 10px;
     margin-top: 0;
@@ -228,14 +227,6 @@ img {
     margin-bottom: 45px;
 }
 
-/* .sidebar_title {
-    color: #484747;
-    font-weight: 700;
-    font-size: 22px;
-    line-height: 27px;
-    margin-bottom: 10px;
-} */
-
 .contacts_link {
     color: #595959;
     font-weight: 400;
@@ -253,7 +244,6 @@ img {
 .soft_skills_list,
 .languages_list,
 .work_list {
-    /* color: #FFFFFF; */
     padding: 0;
     margin-left: 15px;
 }
@@ -262,7 +252,6 @@ img {
 .soft_skills_text,
 .languages_text,
 .work_text {
-    /* color: #595959; */
     font-weight: 400;
     line-height: 24px;
 }
